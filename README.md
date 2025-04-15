@@ -5,7 +5,7 @@ I'm a 🌍 geographer 🌍, 🌐 spatial data scientist 🌐, 🧑‍🎨 design
 - I teach classes on GIS, data science, and geocomputation at MIT, where I am a [Lecturer in Urban Science and Planning](https://dusp.mit.edu/people/eric-robsky-huntley) in the [Department of Urban Studies and Planning](https://dusp.mit.edu/). I also lead the [Spatial Analysis and Action Research Group](https://mit-spatial-action.github.io/)
   - [@mit-spatial-action](https://github.com/mit-spatial-action) | ehuntley@mit.edu
 - I fight for academic freedom as a member of the Executive Committee of the [MIT Chapter](https://aaup.mit.edu/) of the [American Association of University Professors](https://www.aaup.org/).
-- I consult for planners, mission-driven solar companies, librarians, public aid attorneys, and more as [OGRAPHIES Research & Design](https://ographiesresearch.github.io/)
+- I consult for planners, mission-driven solar companies, librarians, legal aid attorneys, and more as [OGRAPHIES Research & Design](https://ographiesresearch.github.io/)
   - [@ographiesresearch](https://github.com/ographiesresearch) | eric@ographiesresearch.com
 
 ### What I'm Working On Now
