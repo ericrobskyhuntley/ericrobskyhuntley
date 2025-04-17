@@ -2,12 +2,12 @@
 
 I'm **Eric Robsky Huntley, PhD, GISP**! I'm a 🌍 geographer 🌍, 🌐 spatial data scientist 🌐, 🧑‍🎨 designer 🧑‍🎨 , and 🧑‍💻 accidental software developer 🧑‍💻 based in [Somerville, Massachusetts](https://duckduckgo.com/?q=Somerville%2C+MA&rpl=1&atb=v411-1&iaxm=maps&bbox=-71.09878383918205%2C42.38710356024365%2C-71.0975662584742%2C42.38620424004932).
 
-- I teach classes on GIS, data science, and geocomputation at **MIT** in Cambridge, where I am a [Lecturer in Urban Science and Planning](https://dusp.mit.edu/people/eric-robsky-huntley) in the **Department of Urban Studies and Planning**. I also lead the **Spatial Analysis and Action Research Group** ([@mit-spatial-action](https://github.com/mit-spatial-action).
-  - ✉️ ehuntley@mit.edu | 🌐 https://mit-spatial-action.github.io/
+- I teach classes on GIS, data science, and geocomputation at **MIT** in Cambridge, where I am a [Lecturer in Urban Science and Planning](https://dusp.mit.edu/people/eric-robsky-huntley) in the **Department of Urban Studies and Planning**. I also lead the **Spatial Analysis and Action Research Group**.
+  - <img src="github.svg" alt="GitHub Logo" width="15" height="15" /> [@mit-spatial-action](https://github.com/mit-spatial-action) | ✉️ ehuntley@mit.edu | 🌐 https://mit-spatial-action.github.io/
 - I fight for academic freedom as a member of the Executive Committee of the [**MIT Chapter**](https://aaup.mit.edu/) of the [American Association of University Professors](https://www.aaup.org/).
   - ✉️ aaup-ec@mit.edu | 🌐 https://aaup.mit.edu/
-- I consult for mission-driven planners, solar companies, legal aid attorneys, map librarians, and more as **OGRAPHIES Research & Design** ([@ographiesresearch](https://github.com/ographiesresearch)).
-  - ✉️ eric@ographiesresearch.com | 🌐 https://ographiesresearch.com/
+- I consult for mission-driven planners, solar companies, legal aid attorneys, map librarians, and more as **OGRAPHIES Research & Design**.
+  - <img src="github.svg" alt="GitHub Logo" width="15" height="15" /> [@ographiesresearch](https://github.com/ographiesresearch) | ✉️ eric@ographiesresearch.com | 🌐 https://ographiesresearch.com/
 
 ### What I'm Working On Now
 
